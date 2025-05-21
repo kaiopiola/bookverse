@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "06c9d7fed8bd003221b66b9195f2b90e",
+const RESOURCES = {"flutter_bootstrap.js": "2b0e5a3e363101c91c9a59e10bd06e19",
 "version.json": "7a46e5defa37fd67d6d00eb09589b7f5",
 "index.html": "7ee436a40bf72caebd60540a9090fc38",
 "/": "7ee436a40bf72caebd60540a9090fc38",
-"main.dart.js": "8993aaf918c3d0fa73c83aa69e4ff315",
+"main.dart.js": "43edc6e7b70d384e775bba2787091d64",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "6e6a0e064f420fbdf1a67b7b56bb80d1",
 "icons/Icon-192.png": "de7097bf817468c05581eec1fa1b5562",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "06c9d7fed8bd003221b66b9195f2b90e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "2a03a1090031997b99336c4e0df47189",
-"assets/fonts/MaterialIcons-Regular.otf": "d932643b55476c2deee19f10b7390180",
+"assets/fonts/MaterialIcons-Regular.otf": "a1c72acbf827efb474ffed262bb65281",
 "assets/assets/brasao_alchemia.png": "3e47ad8ee1c733a3e196a59e8b943856",
 "assets/assets/fundo_chimera.png": "c1f5053dd17a2660c73c7f49fd03ac67",
 "assets/assets/logo.png": "207ea13310aa689fbb8b6b1d4b5f51e5",
